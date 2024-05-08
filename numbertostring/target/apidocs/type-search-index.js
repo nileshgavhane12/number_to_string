@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"number.numbertostring","l":"NumbertostringApplication"},{"p":"number.numbertostring","l":"NumberToWord"}];updateSearchResults();
